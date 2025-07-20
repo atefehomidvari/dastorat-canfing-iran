@@ -2,3 +2,7 @@
 ```
 sudo apt update && sudo apt upgrade -y
 ```
+تانل کردن سرور ایران
+```
+https://github.com/lokidv/tutorial-test/blob/main/README.md
+```
